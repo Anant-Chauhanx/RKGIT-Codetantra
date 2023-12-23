@@ -1,6 +1,9 @@
 <h1 align="center">RKGIT CODETANTRA SOLUTIONS</h1>
 
-![rkgitcodetantra](https://github.com/Anant-Chauhanx/RKGIT-Codetantra/assets/133632782/f2228276-99e7-4115-9337-beb1611d96c8)</br>
+<p align="center">
+ <img src="https://github.com/Anant-Chauhanx/RKGIT-Codetantra/assets/133632782/f2228276-99e7-4115-9337-beb1611d96c8" alt="rkgitcodetantra">
+</p>
+
 <ul>
 <li> Hey, in this repository, you'll find the solutions to the problem provided by rkgit via codetantra. </li></br>
 <li> I'll be adding more stuff to this repo as I go through college. </li></br>
