@@ -6,7 +6,7 @@
 
 <h2>Welcome to this Repository!</h2>
 <ul>
-<li> Hey, in this repository, you'll find the solutions to the problem provided by rkgit via codetantra. </li></br>
+<li> Hey, in this repository, you'll find the solutions to the problem provided by RKGIT via codetantra. </li></br>
 <li> I'll be adding more stuff to this repo as I go through college. </li></br>
 <li> Give a star if you really found this repository helpful.</li><br>
 <li>Connect with me : <a href="https://www.linkedin.com/in/anantx">Anant</a></li>
