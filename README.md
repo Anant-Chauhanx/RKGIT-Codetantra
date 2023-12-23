@@ -5,7 +5,6 @@
 </p>
 
 <h2 align="center">Welcome to this Repository!</h2>
-
 <ul>
 <li> Hey, in this repository, you'll find the solutions to the problem provided by rkgit via codetantra. </li></br>
 <li> I'll be adding more stuff to this repo as I go through college. </li></br>
