@@ -15,6 +15,7 @@
 | Year | Name of the Lab |
 | :------| :---------------|
 |2nd Year| [Data Structure Using C Lab](https://github.com/Anant-Chauhanx/RKGIT-Codetantra/tree/main/Data%20Structure%20Using%20C%20Lab-II%20Year) |
+|2nd Year| [Operating System Lab](https://github.com/Anant-Chauhanx/RKGIT-Codetantra/tree/main/Operating%20System%20Lab) |
 
 
 
